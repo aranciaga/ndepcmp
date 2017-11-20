@@ -1,6 +1,6 @@
 {
   "name": "ndepcmp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Compare dependencies number between n packages",
   "main": "index.js",
   "bin": "cli.js",
