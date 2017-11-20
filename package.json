@@ -1,0 +1,29 @@
+{
+  "name": "ndepcmp",
+  "version": "1.0.0",
+  "description": "Compare dependencies number between n packages",
+  "main": "index.js",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "mocha ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aranciaga/ndepcmp.git"
+  },
+  "keywords": [
+    "ndepcmp",
+    "dependencies"
+  ],
+  "author": "Martin Aranciaga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aranciaga/ndepcmp/issues"
+  },
+  "homepage": "https://github.com/aranciaga/ndepcmp#readme",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
